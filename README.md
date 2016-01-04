@@ -1,21 +1,52 @@
-![百度Web前端技术学院](asset/github.jpg)
+# 前端学习资料
 
-# 学院介绍
+## 百度前端技术学院学习资料(推荐, 有案例可以学习)
 
-## 这是一个什么样的学院
+[通过这个任务快速入门前端](https://github.com/lealife/ife/tree/master/2015_spring/task/task0001) 强烈推荐!! 用几天的时间踏踏实实把任务完成, 一定会让你受益匪浅!!
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**百度Web前端技术学院**（Baidu Institute of Front-End Technology简称IFE）是一个由百度人力资源部校园招聘组、百度EFE团队联合出品的、面向在校大学生以及对前端技术有兴趣的前端在线学习平台，我们希望能够借助百度大量优秀的前端工程师以及丰富的前端知识积累，帮助人们更加有趣、高效、系统地学习Web前端技术。
+其它任务:
+https://github.com/lealife/ife/tree/master/2015_summer
 
-* [2015 暑期训练营](https://github.com/baidu-ife/ife/tree/master/2015_summer)
-* [2015 春季班](https://github.com/baidu-ife/ife/tree/master/2015_spring)
+这是往届的学习资料, 大家可根据自己的方向进行选择学习.
 
-# 联系我们
+## 基础学习资料
 
-欢迎在项目的<a href="https://github.com/baidu-ife/ife/issues" target="_blank">issue</a>中提问，我们会在那里进行回答。
+前端知识包括:
+- 设计: Photoshop(至少会切图, [视频教程](http://www.iqiyi.com/w_19rsi0a0kl.html))
+- 前端: HTML, CSS, JS
+- 相关后端: NodeJS, PHP
 
-如果有不方便公开讨论的问题，可以通过邮件 ife(at)baidu.com 联系我们。
+为什么还要学习一些后端的开发, 因为纯粹的前端是没有的(如果有, 那么竞争力也不大, 不好与后端协作), 所以必须要学一些后端知识, 其中NodeJS是必学, PHP建议也学. 当然有余力, Java, Android, iOS都可以学.
 
-更加欢迎关注我们的<a href="http://weibo.com/baiduife" target="_blank">微博 weibo.com/baiduife</a>
+## HTML
 
-关注我们的微信公众号：搜索baidu_ife或扫描下方二维码
-![二维码](asset/weixin.jpeg)
+- [知乎上的一些Web基本概念介绍](http://www.zhihu.com/question/22689579)
+- [慕课网HTML+CSS基础课程](http://www.imooc.com/learn/9)
+- [w3school html教程](http://w3school.com.cn/html/index.asp)
+- [MDN HTML](https://developer.mozilla.org/zh-CN/docs/Web/HTML/Introduction)
+
+## CSS
+
+- [MDN CSS](https://developer.mozilla.org/zh-CN/docs/Web/Guide/CSS/Getting_started)
+- [w3school css](http://w3school.com.cn/css/index.asp)
+- [慕课网HTML+CSS基础课程](http://www.imooc.com/learn/9)
+
+## JavaScript
+
+- [MDN](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
+- [慕课网JavaScript入门](http://www.imooc.com/learn/36)
+- [慕课网JavaScript教程](http://www.imooc.com/learn/10)
+- [w3school](http://www.w3school.com.cn/js/)
+- [Codecademy](http://www.codecademy.com/tracks/javascript)
+
+## NodeJS
+
+- [NodeJS基础到进阶](http://blog.fens.me/series-nodejs)
+
+# 前端Build工具
+
+如今前端项目的复杂度不可同日而语, 那么需要一些工具对前端项目进行管理, 打包. 以下知识是需要掌握的:
+
+- [RequireJS 模块化](http://www.requirejs.org/)
+- [Grund 构建工具](http://www.gruntjs.net/)
+- [Gulp 构建工具](http://www.gulpjs.com.cn/) (与Grunt相比, 推荐Gulp)
