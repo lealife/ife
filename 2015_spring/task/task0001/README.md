@@ -236,7 +236,7 @@
 - 完成编码后，删掉它们，不留一丝痕迹；
 - 开始重(Chong)构(Xie)，让自己的代码要比第一次有提升，尽可能地让第一次遇到问题和疑惑不再存在；
 - 在blog.html页面中真的写上2-3篇这次学习上的技术总结收获；
-- 初级班同学请在[这里](https://github.com/baidu-ife/ife/issues/764)，按要求回复您的task0001的Github地址。
+- 请在[这里](https://github.com/lealife/ife/issues/1)，按要求回复您的task0001的Github地址。
 
 ### 7.2 期望达成
 
