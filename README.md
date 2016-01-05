@@ -50,3 +50,6 @@ https://github.com/lealife/ife/tree/master/2015_summer
 - [RequireJS 模块化](http://www.requirejs.org/)
 - [Grund 构建工具](http://www.gruntjs.net/)
 - [Gulp 构建工具](http://www.gulpjs.com.cn/) (与Grunt相比, 推荐Gulp)
+- 
+# 其它工具
+- [Git](http://git-scm.com/book/zh/v2) 必学, 并且学会使用Github
